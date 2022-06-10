@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="brick1">brick1</string>
+    <string name="ball">ball</string>
+</resources>
